@@ -9,6 +9,7 @@ from ship import Ship
 from alien import Alien
 import game_functions as gf
 
+
 def run_game():
     # Initialize pygame, settings, and screen object.
     pygame.init()

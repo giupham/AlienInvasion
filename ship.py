@@ -1,5 +1,7 @@
 import pygame
 from pygame.sprite import Sprite
+# Images downloaded from Python Crash Course resources.
+
 
 class Ship(Sprite):
 
